@@ -1,0 +1,29 @@
+.first{
+    background-color: rgba(245, 222, 179, 0.261);
+    display: flex;
+    margin:0px ;
+    
+}
+
+#min{
+    text-align: center;
+    font-size: 6px;
+}
+.mid{
+     display: flex;
+     margin-left: 20px;
+
+}
+#clr{
+    background-color:rgba(173, 185, 230, 0.609) ;
+    margin-right: 10px;
+}
+#clr2{
+    background-color:rgba(0, 255, 255, 0.642);
+    margin-right: 10px;
+}
+#clr3{
+    background-color:antiquewhite;
+    margin-right: 10px;
+
+}
